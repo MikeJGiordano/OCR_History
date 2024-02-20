@@ -10,11 +10,11 @@ For those who do have Python installed, you will need to make sure you can use J
 
 Once you have done this, you need to set up API (Application Programming Interface) credentials for both AWS and Google Cloud. Follow the instructions found in:
 
-- [Setup\_AWS\_Root](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_AWS_Root.md)
-- [Setup\_Google\_Cloud](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_Google_Cloud.md)
+- [Setup\_AWS\_Root.md](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_AWS_Root.md)
+- [Setup\_Google\_Cloud.md](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_Google_Cloud.md)
 
 To ensure that your output works exactly as shown, you can use the virtual environment provided. Follow the instructions found in:
 
-- [Setup\_Virtual\_Environment](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_Virtual_Environment.md)
+- [Setup\_Virtual\_Environment.md](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_Virtual_Environment.md)
 
 Finally, you are now ready to use the program on whatever files you may have. Using Jupyter Notebooks open up the [OCR\_Python/PreProcess\_OCR.ipynb](https://github.com/MikeJGiordano/OCR_History/blob/main/OCR_Python/PreProcess_OCR.ipynb) file and follow along!
