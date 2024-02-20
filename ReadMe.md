@@ -6,7 +6,7 @@ Guides are thoroughly written to make this accessible for beginning users with n
 
 For those who do not have Python installed on their machines, an easy way to get started is to download and install Anaconda from <https://www.anaconda.com/download> 
 
-For those who do have Python installed, or installed in different ways, you will need to make sure you can use Jupyter Notebooks.
+For those who do have Python installed, you will need to make sure you can use Jupyter Notebooks.
 
 Once you have done this, you need to set up API (Application Programming Interface) credentials for both AWS and Google Cloud. Follow the instructions found in:
 
