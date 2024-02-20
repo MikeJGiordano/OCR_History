@@ -10,7 +10,7 @@ For those who do have Python installed, you will need to make sure you can use J
 
 Once you have done this, you need to set up API (Application Programming Interface) credentials for both AWS and Google Cloud. Follow the instructions found in:
 
-- Setup\_AWS\_Root
+- [Setup\_AWS\_Root](https://github.com/MikeJGiordano/OCR_History/blob/main/Setup_AWS_Root.md)
 - Setup\_Google\_Cloud
 
 To ensure that your output works exactly as shown, you can use the virtual environment provided. Follow the instructions found in:
