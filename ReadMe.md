@@ -1,6 +1,6 @@
 ﻿ReadMe Instructions
 
-This was created to provide an easy and quick way for researchers to test image preprocessing techniques and visualize the OCR outputs of Amazon Web Services' (AWS) Textract and Google's Cloud Vision. To see an example of how this works, look at the Completed\_Notebook.pdf file.
+This was created to provide an easy and quick way for researchers to test image preprocessing techniques and visualize the OCR outputs of Amazon Web Services' (AWS) Textract and Google's Cloud Vision. To see an example of how this works, look at the [Completed\_Notebook.pdf](https://github.com/MikeJGiordano/OCR_History/blob/main/Completed_Notebook.pdf) file.
 
 Guides are thoroughly written to make this accessible for beginning users with no coding experience.
 
