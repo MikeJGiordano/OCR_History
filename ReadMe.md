@@ -1,6 +1,6 @@
 ﻿ReadMe Instructions
 
-This was created to provide an easy and quick way for researchers to test image preprocessing techniques and visualize the OCR outputs of Textract and Cloud Vision. To see an example of how this works, look at the Example\_Usage.pdf file.
+This was created to provide an easy and quick way for researchers to test image preprocessing techniques and visualize the OCR outputs of Textract and Cloud Vision. To see an example of how this works, look at the Completed\Notebook.pdf file.
 
 Guides are thoroughly written to make this accessible for beginning users with no coding experience.
 
